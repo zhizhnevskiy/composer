@@ -1,0 +1,20 @@
+{
+    "name": "yz/mvc-composer",
+    "description": "My the fucking MVC lesson",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zhiznevskiy Yura",
+            "email": "zhizhnevskiy@yandex.ru"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\StandardFlow\\" : "/src"
+        }
+    }
+}
