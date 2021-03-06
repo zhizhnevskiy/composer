@@ -9,7 +9,6 @@ use StandardFlow\Application\Controller\NotFoundController;
 use StandardFlow\Application\Database\Connection;
 use StandardFlow\Application\Router;
 
-
 class Application
 {
     private Router $router;
@@ -48,7 +47,8 @@ class Application
             ->addRoute('/', [
                 'controller' => ControllerIndex::class,
                 'action' => 'index',
-            ])->addRoute('/add-employee', [
+            ])
+            ->addRoute('/add-employee', [
                 'controller' => ControllerIndex::class,
                 'action' => 'addEmployee',
             ]);
