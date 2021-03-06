@@ -30,8 +30,8 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '0a9dd84999f7f8f6347a3888a3c5c6dc1ad0b3c0',
-    'name' => 'yz/mvc-composer',
+    'reference' => 'adb2e220d1d46e0b193d688a60df2fc2d8226c93',
+    'name' => 'yz/composer',
   ),
   'versions' => 
   array (
@@ -62,14 +62,14 @@ private static $installed = array (
       ),
       'reference' => '1f3b7e2c06cc05d42936a8ad508ff1db7975cdc5',
     ),
-    'yz/mvc-composer' => 
+    'yz/composer' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => '0a9dd84999f7f8f6347a3888a3c5c6dc1ad0b3c0',
+      'reference' => 'adb2e220d1d46e0b193d688a60df2fc2d8226c93',
     ),
   ),
 );

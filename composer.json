@@ -1,6 +1,6 @@
 {
-    "name": "yz/mvc-composer",
-    "description": "My the fucking MVC lesson",
+    "name": "yz/composer",
+    "description": "MVC lesson",
     "type": "project",
     "license": "MIT",
     "authors": [

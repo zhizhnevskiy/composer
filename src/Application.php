@@ -1,6 +1,5 @@
 <?php
 
-
 namespace StandardFlow;
 
 use PDO;

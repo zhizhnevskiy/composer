@@ -1,6 +1,5 @@
 <?php
 
-
 namespace StandardFlow\Application\Controller;
 
 use StandardFlow\Application\View\Plain;
