@@ -12,5 +12,5 @@ $config = require_once PROJECT_DIR . '/config/config.php';
 $application = new StandardFlow\Application($config);
 
 $response = $application->handle($_SERVER["REQUEST_URI"]);
-
+echo "hi, from home";
 echo $response;
